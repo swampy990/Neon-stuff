@@ -11,7 +11,7 @@ public class GalToLit {
 		gals=99;
 		GalPerLiter  = 3.7854;
 		
-		System.out.println(  gals * GalPerLiter )  ;
+		System.out.println( gals + " Gallons is equal to " + gals * GalPerLiter )  ;
 		
 		
 		
