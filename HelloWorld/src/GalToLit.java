@@ -10,7 +10,7 @@ public class GalToLit {
 	int counter;				// Integer to do counting
 	
 	counter = 0;
-	conv = 3.7854;
+	conv = 3.7854; 	//The number of Litres in a Gallon
 	
 	for (Gals = 1; Gals <=100; Gals ++ ) {
 			Litres = Gals * conv;
